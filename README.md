@@ -22,6 +22,8 @@ Store Module  กลุ่ม หลอดไฟ
 -   แก้ไขข้อมูลบัญชี เช่น ชื่อ, ที่อยู่, รหัสผ่าน (Edit)
 -   ลงข้อมูลสินค้าที่ขาย (Items for sale)
 -   ดูยอดการขาย (total sales)
+## Diagram Shop Microservice 
+![Image](https://imgur.com/EMCQ2oE)
 
 ## Store Database (Logical Design)
 ![Image](https://imgur.com/AdDN4Q1.jpg)
@@ -54,4 +56,4 @@ Store Module  กลุ่ม หลอดไฟ
       * ยอดขายรวม (total_sales)
       
 
-**หมายเหตุ:** 1. ตาราง USER , PRODUCT , ORDER รอรายละเอียดจากกลุ่มที่ทำ Module นั้น ๆ
+
