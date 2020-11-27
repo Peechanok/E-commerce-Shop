@@ -23,7 +23,7 @@ Store Module  กลุ่ม หลอดไฟ
 -   ลงข้อมูลสินค้าที่ขาย (Items for sale)
 -   ดูยอดการขาย (total sales)
 ## Diagram Shop Microservice 
-![Image](https://imgur.com/EMCQ2oE)
+![Image](https://imgur.com/EMCQ2oE.jpg)
 
 ## Store Database (Logical Design)
 ![Image](https://imgur.com/AdDN4Q1.jpg)
