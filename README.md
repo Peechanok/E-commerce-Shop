@@ -18,7 +18,6 @@ Shop Module  กลุ่ม หลอดไฟ
 ##User interface
 [https://peechanok.github.io/Group-Lamp-SOP/](https://peechanok.github.io/Group-Lamp-SOP/)<br><br>
 
-**หมายเหตุ:** 1.ยังไม่ได้ลงรายละเอียดนะ
 
 ## Shop Services
 
