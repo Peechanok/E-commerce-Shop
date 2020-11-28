@@ -29,7 +29,7 @@ Shop Module  กลุ่ม หลอดไฟ
 
 ## Database
 
-![Image](https://imgur.com/cGf5ZgH.jpg)
+![Image](https://imgur.com/o46Xwvd.jpg)
 
 ## Diagram Shop Microservice 
 ![Image](https://imgur.com/EMCQ2oE.jpg)
