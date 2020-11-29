@@ -1,4 +1,4 @@
-# E-Commerce System
+# E-Commerce System - Shop
 Shop Module  กลุ่ม หลอดไฟ
 
 **รายชื่อสมาชิก**
