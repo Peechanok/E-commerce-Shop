@@ -26,6 +26,19 @@ Shop Module  กลุ่ม หลอดไฟ
 -   แก้ไขข้อมูลบัญชี เช่น ชื่อ, ที่อยู่, รหัสผ่าน (Edit)
 -   ลงข้อมูลสินค้าที่ขาย (Items for sale)
 -   ดูยอดการขาย (total sales)
+## :wrench: API
+- /createSales/ สร้างข้อมูลคนขาย
+- /getSales/<:Sales_id> ดึงข้อมูลคนขายผ่าน id
+- /getSalesAll ดึงข้อมูลคนขายในระบบทุกคน
+- /deleteSales/<:Sales_id>  ลบข้อมูลคนขาย
+- /createAddress/ สร้างที่อยู่ของคนขาย
+- /getAddress/<:Sales_id> ดึงข้อมูลที่อยู่อยู่ของคนขาย
+- /updateAddress/<:my_address_id> แก้ไขข้อมูลที่อยู่ที่ id นั้น
+- /deleteAddress/<:my_address_id> ลบไขข้อมูลที่อยู่ที่ id นั้น
+- /createShop/ สร้างร้านค้าของคนขาย
+- /getShop/<:Sales_id> ดึงข้อมูลร้านค้าของคนขาย
+- /updateShop/<:Shop_id> แก้ไขข้อมูลร้านค้าที่ id นั้น
+- /deleteShop/<:Shop_id> ลบข้อมูลร้านค้า
 
 ## Database
 
