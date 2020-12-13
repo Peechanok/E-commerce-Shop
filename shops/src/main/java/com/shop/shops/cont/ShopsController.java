@@ -65,7 +65,7 @@ public class ShopsController {
 		return empList;
 	}
 	
-		@PostMapping("/saveSales")
+		@PostMapping("/createSales")
 		public Sales saveSales(@RequestBody Sales sales) {
 //			if(sales.getSALES_id() != null && sales.getSALES_id() != "") 
 //				return null;
@@ -153,7 +153,7 @@ public class ShopsController {
 			return adList;
 		}
 		
-		@PostMapping("/saveAddress")
+		@PostMapping("/createAddress")
 		public Address saveAddress(@RequestBody Address address) {
 //			if(address.getMy_address_id() != null && address.getMy_address_id() != "") 
 //				return null;
@@ -234,7 +234,7 @@ public class ShopsController {
 				return adList;
 			}
 			
-				@PostMapping("/saveShop")
+				@PostMapping("/createShop")
 				public Shop saveShop(@RequestBody Shop shop) {
 //					if(shop.getShopid() != null && shop.getShopid() != "") 
 //						return null;
